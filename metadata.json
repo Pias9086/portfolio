@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Personal Portfolio",
+  "description": "A customizable, highly interactive personal portfolio showcasing projects, experience, skills, and a modern design selector tailored for creators and software developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
